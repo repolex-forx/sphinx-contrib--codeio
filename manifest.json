@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "codeio",
+  "versions": [
+    {
+      "commit": "281c0a752a54eb6b49e879259d2ddc9c96f08b7a",
+      "parsed_at": "2026-11-06T08:46:15.132865+00:00",
+      "filetree": "filetree/281c0a752a54eb6b49e879259d2ddc9c96f08b7a.nq.gz",
+      "blobs": [
+        "blob/45dd5f5b51e10661a6b6699e050c4ab23d721804.nq.gz",
+        "blob/2d74c58f248790e34e482eb07e20ec6c753c9d2d.nq.gz",
+        "blob/8e7e2bc0d26ebc39199523caf9850ff62f3d650a.nq.gz",
+        "blob/e6d0661160de3cab4842e64eabf732e7581bb41c.nq.gz",
+        "blob/bcb7764ff8977e357f7cdc05c6be01984dba1a36.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
